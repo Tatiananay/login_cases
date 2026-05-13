@@ -1,6 +1,5 @@
 ﻿using System.Text.RegularExpressions;
 
-// Initial state
 var registeredEmail = "test@gmail.com";
 var registeredPassword = "Password123#";
 bool isRunning = true;
@@ -68,7 +67,6 @@ void Register()
         return;
     }
 
-    // Update local "database"
     registeredEmail = newEmail;
     registeredPassword = newPass;
     Console.WriteLine("¡Registro exitoso! Ya puede iniciar sesión.");
@@ -85,7 +83,7 @@ void Login()
     if (inputEmail == registeredEmail && inputPass == registeredPassword)
     {
         Console.WriteLine("¡Bienvenido al sistema!");
-        isRunning = false; // Stop the loop after successful login
+        isRunning = false;
     }
     else
     {
@@ -103,7 +101,6 @@ bool IsValidEmail(string email)
 bool IsValidPassword(string password)
 {
     if (string.IsNullOrWhiteSpace(password)) return false;
-    // Length 8+, 1 Uppercase, 1 Lowercase, 1 Digit, 1 Special
     string pattern = @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&#]).{8,}$";
     return Regex.IsMatch(password, pattern);
 }
