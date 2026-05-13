@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\bin\Debug\net8.0\LoginConsole.exe
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\bin\Debug\net8.0\LoginConsole.deps.json
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\bin\Debug\net8.0\LoginConsole.runtimeconfig.json
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\bin\Debug\net8.0\LoginConsole.dll
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\bin\Debug\net8.0\LoginConsole.pdb
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.sourcelink.json
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.dll
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\refint\LoginConsole.dll
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.pdb
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\LoginConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\EPN\26A\VV\Login\login_cases\LoginConsole\obj\Debug\net8.0\ref\LoginConsole.dll
